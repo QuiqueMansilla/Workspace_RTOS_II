@@ -1,0 +1,5 @@
+../Drivers/API/Scr/API_uart.c:28:8:uartInit	8	static
+../Drivers/API/Scr/API_uart.c:63:6:uartSendString	24	static
+../Drivers/API/Scr/API_uart.c:74:6:uartSendStringSize	24	static
+../Drivers/API/Scr/API_uart.c:85:6:uartReceiveStringSize	24	static
+../Drivers/API/Scr/API_uart.c:97:6:showConfigUART	8	static

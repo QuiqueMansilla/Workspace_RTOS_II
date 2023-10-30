@@ -1,0 +1,10 @@
+19:51:40 **** Incremental Build of configuration Debug for project Proyecto_HCSR04_I2C_LCD_V6 ****
+make -j4 all 
+arm-none-eabi-size   Proyecto_HCSR04_I2C_LCD_V6.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19556	    120	   1856	  21532	   541c	Proyecto_HCSR04_I2C_LCD_V6.elf
+Finished building: default.size.stdout
+ 
+
+19:51:41 Build Finished. 0 errors, 0 warnings. (took 447ms)
+

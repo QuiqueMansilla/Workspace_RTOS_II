@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Tarea_Individual_Mansilla_Rubén_CESE20/Proyecto_HCSR04_I2C_LCD_V6.ioc&apos; to &apos;Tarea_Individual_Mansilla_Rubén_CESE20.ioc&apos;" description="Rename resource &apos;Proyecto_HCSR04_I2C_LCD_V6.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Proyecto_HCSR04_I2C_LCD_V6.ioc" name="Tarea_Individual_Mansilla_Rubén_CESE20.ioc" stamp="1698446813545" updateReferences="true"/>
+</session>
